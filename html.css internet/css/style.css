@@ -1,0 +1,24 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+body
+{
+    box-sizing: border-box;
+}
+.wrapper
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper h1
+{
+    font-size: 32px;
+    letter-spacing: 2px;
+    padding: 12px;
+    border-radius: 3px;
+}
